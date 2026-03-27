@@ -42,8 +42,7 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-
-👉 Add your deployed Streamlit link here:
+https://n-app-ta42372nlsautrimove.streamlit.app
 
 
 
