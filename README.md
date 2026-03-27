@@ -1,40 +1,56 @@
-# 🏃‍♀️ Fitness & Nutrition Tracker
+# 🏃‍♀️ NutriMove – Fitness & Nutrition Tracker
 
-Welcome! This is a **Fitness & Nutrition Tracker** app built with **Streamlit**.  
-The app helps users track their daily workouts and meals, calculate calories, visualize data with graphs, and get health insights in an easy and interactive way.
+## 📌 Project Overview
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://probable-enigma-x5949wvr9wjw3p695-8501.app.github.dev/)
-
----
-
-## 🌟 App Features
-
-1. **User Management**
-   - Create a new account or login with an existing username.
-   - Edit profile details: Weight, Height, and Fitness Goal.
-
-2. **Daily Entries**
-   - Add workouts or meals.
-   - Each entry includes: Type, Category, Duration/Quantity, Calories, and Date.
-
-3. **CSV Upload**
-   - Upload CSV files containing meals or workouts for faster data entry.
-
-4. **Data Visualization**
-   - **Calories Consumed vs Burned** – compare intake vs calories burned.
-   - **Pie Chart of Meals by Calories** – see calorie distribution per meal type.
-
-5. **Health Insights**
-   - Alerts if you are consuming more calories than burning.
-   - Encourages maintaining a healthy balance between intake and activity.
-
-6. **Data Storage**
-   - All user data is saved in a JSON file (`users_data.json`) for easy storage and retrieval.
+NutriMove is a web-based application built using Streamlit that helps users track their fitness activities and nutrition intake. The app allows users to log workouts and meals, visualize data, and receive health insights.
 
 ---
 
+## 🚀 Features
 
-🌐 Direct Link to the App
+* User profile management (weight, height, goal)
+* Add workout and meal entries
+* Import data using CSV files
+* Data visualization (bar charts & pie charts)
+* Daily summary and health insights
+* Interactive and modern UI
 
-You can access the app directly here:
-https://probable-enigma-x5949wvr9wjw3p695-8501.app.github.dev/
+---
+
+## 🛠 Technologies Used
+
+* Python
+* Streamlit
+* Matplotlib
+
+---
+
+## ▶️ How to Run the App (Locally)
+
+1. Install required libraries:
+
+```
+pip install streamlit matplotlib
+```
+
+2. Run the application:
+
+```
+streamlit run app.py
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 Add your deployed Streamlit link here:
+
+
+
+
+
+---
+
+## 👨‍💻 Author
+
+Developed by Shahad Almasri
